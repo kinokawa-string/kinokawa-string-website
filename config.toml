@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://demo.gethugothemes.com/"
+baseURL = "https://kinokawa-string.github.io/kinokawa-string-website/"
 languageCode = "ja-jp"
 summaryLength = "100"
 hasCJKLanguage = true
