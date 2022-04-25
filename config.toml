@@ -1,7 +1,8 @@
 # default configuration
 baseURL = "http://demo.gethugothemes.com/"
 languageCode = "ja-jp"
-summaryLength = "10"
+summaryLength = "100"
+hasCJKLanguage = true
 theme = "kinokawa-string-theme"
 title = "きのかわ弦楽合奏団"
 
