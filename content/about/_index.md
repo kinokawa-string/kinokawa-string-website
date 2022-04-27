@@ -1,8 +1,12 @@
 ---
 title: "About"
 description: "きのかわ弦楽合奏団の紹介"
-author_image : "https://scontent.ffuk1-1.fna.fbcdn.net/v/t1.18169-9/24991070_1569798913056209_5340078180851877155_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=eMUz5agZoiAAX-dfv8t&_nc_ht=scontent.ffuk1-1.fna&oh=00_AT-D76tpX52mxBoWVKZ9VXJJY5GxM5f8ARNSPzWpU1zL2A&oe=628B2EE8"
+author_image : "images/about_author.jpg"
 draft: false
 ---
 
+2013年12月、地域のアマチュア音楽家が集い、発足しました。
+和歌山県北部を拠点に活動しており、地域のコミュニティセンターでの依頼演奏や子どものためのコンサートを行うなど、地域の音楽文化の向上と広がりを求めて活動を行っています。
 
+バロック、古典派の音楽を中心に全体合奏の他、パート練習、小編成での練習を行うなどアンサンブルの基礎を学び、団員同士が積極的に音楽づくりを行っています。
+団員は10代から70代まで世代を超えたメンバーで構成され、アットホームな雰囲気の中で活動を行っています。
