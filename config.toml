@@ -89,5 +89,9 @@ icon = "ti-facebook"
 URL = "https://www.facebook.com/kinokawa.string"
 
 [[params.social]]
+icon = "ti-instagram"
+URL = "https://www.instagram.com/kinogen_string/"
+
+[[params.social]]
 icon = "ti-email"
 URL = "mailto:kinokawa.string@gmail.com"
