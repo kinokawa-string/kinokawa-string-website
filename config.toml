@@ -51,9 +51,6 @@ home = "Home"
 logo = ""
 # theme color
 theme_color = "black"
-# contact info
-email = "kinokawa.string@gmail.com"
-address = "和歌山県"
 # meta description
 author = "Yuki Okugawa"
 description = "きのかわ弦楽合奏団ホームページ"
@@ -86,12 +83,18 @@ enable = false
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "https://www.facebook.com/kinokawa.string"
+title = "Facebook"
+linkText = "kinokawa.string"
+URL = "https://www.facebook.com/kinokawa.string/"
 
 [[params.social]]
 icon = "ti-instagram"
+title = "Instagram"
+linkText = "kinogen_string"
 URL = "https://www.instagram.com/kinogen_string/"
 
 [[params.social]]
 icon = "ti-email"
+title = "Email"
+linkText = "kinokawa.string@gmail.com"
 URL = "mailto:kinokawa.string@gmail.com"

@@ -26,7 +26,7 @@ service:
   item:
     - title : "練習"
       icon : "ti-face-smile"
-      content : "<i>練習場所</i><br/>和歌山市内のコミュニティセンター<br/><i>練習日</i><br/>月２回　第２、第４日曜日<br/>9：00～12：00"
+      content : "和歌山市内コミュニティセンターにて\n\n第２、第４日曜日\n\n9：00～12：00"
       highlighted : false
 
     - title : "演奏会"
@@ -37,7 +37,7 @@ service:
     - title : "募集"
       icon : "ti-user"
       content :
-        "入団希望、見学希望の方は<br/><a href='mailto:kinokawa.string@gmail.com'>kinokawa.string@gmail.com</a><br/>までご連絡下さい。"
+        "入団希望、見学希望の方は<a href='mailto:kinokawa.string@gmail.com'>kinokawa.string@gmail.com</a>までご連絡下さい。"
       highlighted : false
 
 # blog
