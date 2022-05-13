@@ -60,7 +60,7 @@ copyright = "Copyright &copy; 2021 Yuki Okugawa; Powered by [Kross Hugo](https:/
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+content = "Loading...♪"
 
 # contact
 [params.contact]
