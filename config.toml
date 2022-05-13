@@ -14,9 +14,7 @@ link = "plugins/themify-icons/themify-icons.css"
 
 # js plugin
 [[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
-[[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
+link = "plugins/bootstrap/bootstrap-native.min.js"
 
 # menu
 [[menu.main]]
