@@ -18,17 +18,17 @@ link = "plugins/bootstrap/bootstrap-native.min.js"
 
 # menu
 [[menu.main]]
-URL = "about"
+URL = "about/"
 name = "About"
 weight = 1
 
 [[menu.main]]
-URL = "blog"
+URL = "blog/"
 name = "Blog"
 weight = 2
 
 [[menu.main]]
-URL = "contact"
+URL = "contact/"
 name = "Contact"
 weight = 3
 
