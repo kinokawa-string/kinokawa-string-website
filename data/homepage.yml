@@ -26,7 +26,7 @@ service:
   item:
     - title : "練習"
       icon : "ti-face-smile"
-      content : "和歌山市内コミュニティセンターにて\n\n第２、第４日曜日\n\n9：00～12：00"
+      content : "- 和歌山市内コミュニティセンターにて\n- 第２、第４日曜日\n- 9：00～12：00"
       highlighted : false
 
     - title : "演奏会"
