@@ -8,13 +8,7 @@ title = "きのかわ弦楽合奏団"
 
 # css plugins
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
-[[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
-
-# js plugin
-[[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap-native-v4.min.js"
 
 # menu
 [[menu.main]]
