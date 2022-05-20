@@ -3,8 +3,7 @@ banner:
   title : "きのかわを、<br/>音楽と、<br/>共に。"
 
 topImage:
-  enable: true
-  src: "images/topImage.jpg"
+  "images/topImage.jpg"
 
 pr:
   enable: true
