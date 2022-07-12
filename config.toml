@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://kinokawa-string.github.io/kinokawa-string-website/"
+baseURL = "https://kinokawa-string.com/"
 languageCode = "ja-jp"
 summaryLength = "100"
 hasCJKLanguage = true
