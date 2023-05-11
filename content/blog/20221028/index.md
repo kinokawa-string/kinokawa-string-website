@@ -1,6 +1,6 @@
 ---
 title: "コミュニティコンサート vol.3 のおしらせ"
-date: 2022-10-28T15:30+09:00
+date: 2022-10-28T15:30:00+09:00
 publishDate: 2022-10-28T15:30:00+09:00
 image: "communityConcert3.png"
 description: "コミュニティコンサート vol.3 のおしらせ"

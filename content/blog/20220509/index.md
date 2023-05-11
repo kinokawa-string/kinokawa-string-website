@@ -1,6 +1,6 @@
 ---
 title: "第5回定期演奏会のおしらせ"
-date: 2022-05-09T12:29+09:00
+date: 2022-05-09T12:29:00+09:00
 publishDate: 2022-05-09T12:29:00+09:00
 image: "teienn5poster.jpg"
 description: "第5回定期演奏会のおしらせ"

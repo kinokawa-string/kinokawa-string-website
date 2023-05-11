@@ -1,7 +1,7 @@
 ---
 title: "第6回定期演奏会のおしらせ"
-date: 2023-05-11T12:29+09:00
-publishDate: 2023-05-11T12:29+09:00
+date: 2022-05-11T12:29:00+09:00
+publishDate: 2023-05-11T12:29:00+09:00
 image: "teienn6poster.png"
 description: "第6回定期演奏会のおしらせ"
 author: "Yuki Okugawa"
