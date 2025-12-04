@@ -8,7 +8,7 @@ author: "Yuki Okugawa"
 categories: ["演奏会情報"]
 draft: false
 ---
-
+<!--more-->
 ![sakura-back.jpg](./sakura-back.jpg)
 
 
